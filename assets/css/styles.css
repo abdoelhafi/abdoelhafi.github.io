@@ -83,6 +83,18 @@ a.nav-item:hover {
 	width: 80%;
 	margin: 0 auto;
 }
+.person-name{
+	font-family: monospace;
+	font-weight: 200;
+	font-style: oblique;
+	color: #4CAF50;
+}
+.education-title{
+	text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+  size: 3rem;
+}
 
 .void-background {
 	background-color: transparent; 
