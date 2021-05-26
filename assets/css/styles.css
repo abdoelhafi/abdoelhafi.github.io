@@ -37,6 +37,10 @@ section{
 	padding: 0.2rem;
 }
 
+.section-5 {
+	background: #07303d;
+}
+
 a.nav-item {
 	color: #dfdfdf;
 }
@@ -165,11 +169,18 @@ border-radius: 10%;
 	/* color: #00d1b2; */
 	
 }
+.co-distance{
+	margin: 20px;
+}
 .interest-img{
 	max-width: 300px;
 }
 .interest{
 	text-align: center;
+}
+.tech-img{
+	width: 120px;
+	height: 120px;
 }
 .center{
 	text-align: center;
