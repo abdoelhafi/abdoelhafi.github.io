@@ -30,6 +30,7 @@ section{
 
 .section-3 {
 	background-color: #0E282E;
+	text-align: center;
 }
 
 .section-4 {
@@ -39,6 +40,7 @@ section{
 
 .section-5 {
 	background: #07303d;
+	text-align: center;
 }
 
 a.nav-item {
